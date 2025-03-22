@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/amrita-tifac-cys-btech/.github-private/refs/heads/main/profile/assets/AVV_CYS_Logo.png?token=GHSAT0AAAAAACRWUYJP2SOAOBWA7TQHAGWCZ6N3FYQ" alt="Amrita TIFAC" width=700 />
+    <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/.github/blob/main/profile/img/AVV_CYS_Logo.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
 # B.Tech CSE (CYS) Batch 2021-25 ![](https://img.shields.io/badge/-Live-brightgreen)
